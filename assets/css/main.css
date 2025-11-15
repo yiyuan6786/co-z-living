@@ -2892,7 +2892,7 @@ input[type="button"].small,
 }
 
 #header .logo {
-	background: #F0780c;
+	/* background: #F0780c; */
 	border-radius: 100%;
 	color: #ffffff;
 	cursor: default;
